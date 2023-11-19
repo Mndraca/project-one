@@ -160,3 +160,14 @@ height: 60px;
     text-align: center;
 
 }
+.container4{
+    border: 1px solid black;
+    width: 100%;
+    height: 600px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.image3{
+    width: 80%;
+}
