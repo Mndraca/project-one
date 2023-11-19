@@ -38,6 +38,7 @@ justify-content: center;
     flex-direction: row;
     justify-content: space-evenly;
     padding: 40px;
+
 }
 .Picture2{
     width: 99%;
@@ -50,9 +51,48 @@ justify-content: center;
 .container1{
     display: flex;
     flex-direction: row;
-    justify-content: end;
+    justify-content: flex-end;
+ 
+   
 }
 .photo-bar{
     width: 60%;
-    padding-left: 70px;
+    padding-left: 87px;
+}
+section{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.text{
+    font-family: sans-serif;
+    text-align: center;
+    padding-left: 60px;
+}
+.image{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+
+}
+.container5{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    background-color: #F4F2F0;
+    width: 100%;
+    height: 580px;
+}
+.image1 {
+    
+    width: 90%;
+    padding-top: 25%;
+    padding-bottom: 0;
+    padding-left: 5%;
+
+}
+.text1{
+    font-family: sans-serif;
+    text-align: center;
+   
 }
