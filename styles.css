@@ -204,3 +204,32 @@ hr {
     font-size: 18px;
     text-align: center;
 }
+.bottom-nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    text-align: center;
+}
+.bottom-nav1{
+    width: 6%;
+    height: auto;
+    justify-content: center;
+}
+.bottom-nav2{
+    width: 12%;
+    height: auto;
+    justify-content: center;
+}
+.bottom-nav3{
+    width: 14%;
+    height: auto;
+    justify-content: center;
+}
+.bottom-nav4{
+    width: 14%;
+    height: auto;
+    justify-content: center;
+}
+
