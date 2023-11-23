@@ -244,6 +244,7 @@ hr {
     height: 300px;
     padding-bottom: 5%;
 }
+    
 .container10{
     background-color: white;
     width: 100%;
@@ -266,7 +267,7 @@ hr {
     text-decoration: none;
     border-radius: 50%;
   }    
-  li {
+  ul {
     
     text-decoration: none;
     
@@ -276,6 +277,29 @@ hr {
     display: flex;
     flex-direction: row;
     justify-content: flex-start;
-
-
+   
 }
+.SocialIcons2{
+    list-style: none;
+    font-size: 16px;
+    max-width: 200px;
+    display: inline-flex;
+    padding-bottom: 0;
+}
+.container12{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    width: 20%;
+    font-size: 12px;
+    color: grey;
+}
+.container13{
+    display: flex;
+    flex-direction: column;
+    font-size: 12px;
+    color: grey;
+    padding-left: 80%;
+    bottom: 2%;
+}
+
