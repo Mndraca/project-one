@@ -249,3 +249,33 @@ hr {
     width: 100%;
     height: 500px;
 }
+
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  .fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+  }    
+  li {
+    
+    text-decoration: none;
+    
+    
+}
+.SocialIcons2__container {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+
+
+}
