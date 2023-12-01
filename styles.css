@@ -300,4 +300,12 @@ hr {
     padding-left: 80%;
     bottom: 2%;
 }
-
+@media  (max-width: 600px){
+    .container {
+       
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+       
+     }
+    }
