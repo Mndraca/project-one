@@ -36,17 +36,17 @@ justify-content: center;
 .container{
     display: flex;
     flex-direction: row;
-    justify-content: space-evenly;
-    padding: 40px;
+    justify-content: space-between;
+  
 
 }
 .Picture2{
-    width: 99%;
-    margin-left: 0;
+    width: 100%;
+   
 }
 .Picture3{
-    width: 99%;
-    margin-left: 10px;
+    width: 100%;
+   
 }
 .container1{
     display: flex;
@@ -306,6 +306,16 @@ hr {
     display: flex;
     flex-direction: column;
     width: 100%;
+
+       
+     }
+    }
+@media  (max-width: 600px){
+   .top {
+       
+ margin-left: 5%;
+ margin-right: 5%;
+    
        
      }
     }
