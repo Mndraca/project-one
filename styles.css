@@ -16,8 +16,8 @@ header{
 }
 body {
     margin-top:0%;
-    margin-right: 2%;
-    margin-left:2%;
+    margin-right: 0%;
+    margin-left:0%;
 }
 p.font{
     font-family: sans-serif;
@@ -127,6 +127,9 @@ section{
     width:100%;
    
 
+}
+p.text{
+    padding-left: 27%;
 }
 .container7{
 border: 1px solid white;
