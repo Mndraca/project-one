@@ -1,7 +1,7 @@
-html{
-    margin: 0;
-}
-
+html, body {
+    width: auto!important; 
+overflow-x: hidden!important;
+} 
 
 .top-bar{
     background-color: grey;
