@@ -1,15 +1,21 @@
+html{
+    margin: 0;
+}
+
+
 .top-bar{
     background-color: grey;
-    height: 35px;
+    
 
 }
 header{
    background-color: black;
-     height: 150px;
+    
 
 }
 body {
   margin: 0;
+  padding: 0;
 
 }
 p.font{
@@ -225,9 +231,14 @@ hr {
     justify-content: space-evenly;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 12px;
-    text-align: center;
     padding-bottom: 2%;
     padding-top: 5%;
+    text-align: center;
+    
+}
+div.bottom-nav{
+    text-size-adjust: 16px;
+    text-overflow: inherit;
 }
 .bottom-nav1{
     width: 6%;
@@ -326,8 +337,8 @@ hr {
 @media  (max-width: 600px){
    body {
        
- margin-left: 0;
- margin-right: 0;
+margin: 0;
+padding: 0;
     
        
      }
