@@ -5,6 +5,7 @@ html{
 
 .top-bar{
     background-color: grey;
+    border: 2px solid grey;
     
 
 }
@@ -14,9 +15,9 @@ header{
 
 }
 body {
-  margin: 0;
-  padding: 0;
-
+    margin-top:0%;
+    margin-right: 2%;
+    margin-left:2%;
 }
 p.font{
     font-family: sans-serif;
@@ -50,20 +51,18 @@ justify-content: center;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    margin-left: 2%;
-    margin-right: 2%;
+    width: 100%;
   
 
 }
 .Picture2{
     width: 100%;
-    margin-right: 2%;
+   
    
 }
 .Picture3{
     width: 100%;
-    margin-left: 2%;
-   
+    
 }
 .container1{
     display: flex;
@@ -267,6 +266,9 @@ div.bottom-nav{
    
     
 }
+.bar{
+    margin-left: 5%;
+    }
     
 .container10{
     background-color: white;
@@ -328,9 +330,7 @@ div.bottom-nav{
        
     display: flex;
     flex-direction: column;
-    width: 100%;
-
-       
+    width: 100%;  
      }
     }
 
@@ -339,17 +339,13 @@ div.bottom-nav{
        
 margin: 0;
 padding: 0;
-    
-       
-     }
+    }
     }
 @media  (max-width: 600px){
     .bar {
     margin-left: 5%;
          }
         }
-
-
  @media  (max-width: 600px){
     section {
                
@@ -360,9 +356,6 @@ padding: 0;
                
              }
             }
-.bar{
-margin-left: 5%;
-}
 
 @media  (max-width: 600px){
     img.photo-bar {
@@ -452,5 +445,15 @@ height: 180px;
                                                            
                             }
                             }
+                            @media  (max-width: 600px){
+                                img.Picture3 {
+                                                               
+                            margin: 0%;
+                
+                                        
+                                                               
+                                }
+                                }
+    
 
                            
