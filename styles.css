@@ -235,6 +235,25 @@ hr {
     text-align: center;
     
 }
+p.bottom-nav{
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+img.bottom-nav4{
+    padding-bottom: 10%;
+
+}
+img.bottom-nav2{
+    padding-bottom: 3%;
+
+}
+img.bottom-nav3{
+    padding-bottom: 2%;
+
+}
+img.bottom-nav1{
+    padding-bottom: 0%;
+}
 div.bottom-nav{
     text-size-adjust: 16px;
     text-overflow: inherit;
@@ -257,6 +276,7 @@ div.bottom-nav{
 .bottom-nav4{
     width: 14%;
     justify-content: center;
+    height: auto;
 }
 .container9{
     display: flex;
