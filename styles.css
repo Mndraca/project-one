@@ -486,6 +486,43 @@ height: 180px;
                                                                
                                 }
                                 }
-    
+                                @media  (max-width: 600px){
+                                    h1.text4 {
+                                                                   
+                                margin-top: 5%;
+                                margin-left: 2%;
+                                margin-right: 2%;
+                    
+                                            
+                                                                   
+                                    }
+                                    }
+                                    @media  (max-width: 600px){
+                                        a.link1 {
+                                                                       
+                                   padding-left: 43%;
+                        
+                                                
+                                                                       
+                                        }
+                                        }
+                                        @media  (max-width: 600px){
+                                            a.link2 {
+                                                padding-left: 40%;
+                                                                           
+                                       
+                                                    
+                                                                           
+                                            }
+                                            }
+                                            @media  (max-width: 600px){
+                                                p.text {
+                                                    padding-right: 0%;
+                                                                               
+                                           
+                                                        
+                                                                               
+                                                }
+                                                }
 
                            
