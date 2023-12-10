@@ -465,7 +465,7 @@ height: 180px;
                 @media  (max-width: 600px){
                     p.text4 {
                                                    
-                margin: 0;
+                margin-left: 5%;
                 padding: 0;
     
                             
@@ -541,6 +541,13 @@ height: 180px;
 @media  (max-width: 600px){
     img.logo {
         padding-left: 5%;
+        
+    }
+
+}
+@media  (max-width: 600px){
+    p, h1 {
+        font-family: sans-serif;
         
     }
 
