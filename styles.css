@@ -526,6 +526,14 @@ height: 180px;
                                                         
                                                                                
                                                 }
+                                                
                                                 }
+@media  (max-width: 600px){
+    h1, p{
+        margin-left: 20px;
+    }
+
+}
+    
 
                            
