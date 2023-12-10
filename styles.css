@@ -16,7 +16,7 @@ header{
 }
 .top{
     text-align: center;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: sans-serif;
     font-size: 9px;
    
 }
@@ -45,7 +45,7 @@ a {
 .paragraf{
 display: flex;
 justify-content: center;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: sans-serif;
     color: white;
     font-size: 30px;
 }
@@ -169,14 +169,14 @@ height: 60px;
     
 }
 h1.text4{
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: sans-serif;
     font-size: 25px;
     text-align: center;
     padding-top: 0%;
 
 }
 h1.text5{
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: sans-serif;
     font-size: 25px;
     text-align: center;
     padding-top: 0%;
@@ -188,7 +188,7 @@ h1.text5{
 a.link1 {
     text-decoration: none;
     color: black;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: sans-serif;
     font-size: 15px;
     padding-left: 35%;
 
@@ -196,7 +196,7 @@ a.link1 {
 a.link2 {
     text-decoration: none;
     color: black;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: sans-serif;
     font-size: 15px;
     padding-left: 30%;
 }
@@ -223,7 +223,7 @@ a.link2 {
 
 }
 .text4 {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: sans-serif;
     font-size: 18px;
     text-align: start;
     margin-left: 5%;
@@ -235,13 +235,13 @@ hr {
     color: grey;
 }
 .text5{
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: sans-serif;
     font-size: 12px;
     text-align: center;
     padding-bottom: 15%;
 }
 .text6{
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: sans-serif;
     font-size: 18px;
     text-align: center;
 }
@@ -249,7 +249,7 @@ hr {
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: sans-serif;
     font-size: 12px;
     padding-bottom: 2%;
     padding-top: 5%;
@@ -332,10 +332,12 @@ div.bottom-nav{
     text-align: center;
     text-decoration: none;
     border-radius: 50%;
+    font-family: sans-serif;
   }    
   ul {
     
     text-decoration: none;
+    font-family: sans-serif;
     
     
 }
@@ -348,6 +350,7 @@ div.bottom-nav{
 .SocialIcons2{
     list-style: none;
     font-size: 16px;
+    font-family: sans-serif;
     max-width: 200px;
     display: inline-flex;
     padding-bottom: 0;
@@ -409,7 +412,9 @@ margin-right: 0%;
             }
  @media  (max-width: 600px){
 p.text {
-padding-right: 70%;
+padding: 0%;
+margin-left: 15%;
+
     }
 }
 @media  (max-width: 600px){
@@ -501,6 +506,7 @@ height: 180px;
                                 margin-top: 5%;
                                 margin-left: 2%;
                                 margin-right: 2%;
+                                font-family: sans-serif;
                     
                                             
                                                                    
@@ -524,16 +530,7 @@ height: 180px;
                                                                            
                                             }
                                             }
-                                            @media  (max-width: 600px){
-                                                p.text {
-                                                    padding-right: 0%;
-                                                                               
                                            
-                                                        
-                                                                               
-                                                }
-                                                
-                                                }
 @media  (max-width: 600px){
     div.text {
         padding-top: 1%;
