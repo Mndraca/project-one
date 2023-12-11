@@ -4,11 +4,13 @@ html, body {
 } 
 
 .top-bar{
-    background-color: grey;
-    border: 2px solid grey;
+    background-image: url(https://i.pinimg.com/736x/4c/73/54/4c7354ec6ff57293af3dce7eae20b49e.jpg);
+    height: inherit;
+}
+
     
 
-}
+
 header{
    background-color: black;
     
@@ -29,6 +31,8 @@ p.font{
     font-family: sans-serif;
     color: white;
     font-size: 14px;
+    margin: 0;
+    padding: 0;
 
 }
 nav {
@@ -48,6 +52,7 @@ justify-content: center;
     font-family: sans-serif;
     color: white;
     font-size: 30px;
+    margin: 0;
 }
 .Picture1{
     width: 100%;
@@ -94,6 +99,8 @@ section{
 .text{
     font-family: sans-serif;
     text-align: center;
+    padding-top: 2%;
+    padding-bottom: 2%;
 }
 .image{
     display: flex;
@@ -137,7 +144,7 @@ section{
 
 }
 p.text{
-    padding-left: 2%;
+    padding-left: 33%;
 }
 .container7{
 border: 1px solid white;
@@ -149,6 +156,7 @@ height: 60px;
     flex-direction: row;
     justify-content: flex-start;
     width: 20%;
+    margin-left: 10%;
   
 }
 .container8{
@@ -565,4 +573,7 @@ div.top-img{
  padding: 0;
  margin: 0;
 
+}
+nav.navbar{
+    background-color: url(https://i.pinimg.com/736x/4c/73/54/4c7354ec6ff57293af3dce7eae20b49e.jpg);
 }
