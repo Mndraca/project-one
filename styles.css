@@ -58,6 +58,8 @@ justify-content: center;
     flex-direction: row;
     justify-content: space-between;
     width: 100%;
+    margin: 0;
+    padding: 0;
   
 
 }
@@ -552,6 +554,15 @@ height: 180px;
     }
 
 }
-    
+img.Picture1, img.Picture2{
+margin: 0;
+}
+.cont{
+    border: 2px solid white;
+    height: 15px;
+}
+div.top-img{
+ padding: 0;
+ margin: 0;
 
-                           
+}
