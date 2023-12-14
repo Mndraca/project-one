@@ -18,6 +18,9 @@ header{
     
 
 }
+p, h1 {
+    margin-left: 4%;
+}
 .top{
     text-align: center;
     font-family: sans-serif;
@@ -272,24 +275,33 @@ hr {
     text-align: center;
     
 }
+h1.bottom-nav{
+    width: 60%;
+
+}
 p.bottom-nav{
-    padding-top: 5%;
+    width: 60%;
     padding-bottom: 5%;
+    color: grey;
 }
 img.bottom-nav4{
-    padding-bottom: 10%;
-
+    width: 25%;
+   padding-right: 30%;
 }
 img.bottom-nav2{
     padding-bottom: 3%;
+    padding-right: 30%;
 
 }
 img.bottom-nav3{
     padding-bottom: 2%;
+    padding-right: 30%;
 
 }
 img.bottom-nav1{
+    width: 7%;
     padding-bottom: 0%;
+    padding-right: 30%;
 }
 div.bottom-nav{
     text-size-adjust: 16px;
