@@ -287,22 +287,22 @@ p.bottom-nav{
 }
 img.bottom-nav4{
     width: 25%;
-   padding-right: 30%;
+   padding-right: 35%;
 }
 img.bottom-nav2{
     padding-bottom: 3%;
-    padding-right: 30%;
+    padding-right: 35%;
 
 }
 img.bottom-nav3{
     padding-bottom: 2%;
-    padding-right: 30%;
+    padding-right: 35%;
 
 }
 img.bottom-nav1{
     width: 7%;
     padding-bottom: 0%;
-    padding-right: 30%;
+    padding-right: 35%;
 }
 div.bottom-nav{
     text-size-adjust: 16px;
@@ -411,6 +411,9 @@ div.container12{
 div.container13{
     padding-left: 7%;
     padding-top: 2%;
+}
+h2{
+    margin:0;
 }
 @media  (max-width: 600px){
     .container {
