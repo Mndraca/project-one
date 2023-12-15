@@ -351,44 +351,16 @@ div.bottom-nav{
     height: 500px;
 }
 
-  .fa-facebook {
-    background: #3B5998;
-    color: white;
-  }
-  .fa-facebook {
-    background: #3B5998;
-    color: white;
-  }
-  .fa {
-    padding: 20px;
-    font-size: 30px;
-    width: 30px;
-    text-align: center;
-    text-decoration: none;
-    border-radius: 50%;
-    font-family: sans-serif;
-  }    
-  ul {
-    
-    text-decoration: none;
-    font-family: sans-serif;
-    
-    
-}
-.SocialIcons2__container {
-    display: flex;
-    flex-direction: row;
-    justify-content: flex-start;
+ 
+
+div.social-icons {
+    display: grid;
+    font-size: 3rem;
+    grid-template-columns: repeat(5, 1fr);
+    padding-left: 40%;
    
-}
-.SocialIcons2{
-    list-style: none;
-    font-size: 16px;
-    font-family: sans-serif;
-    max-width: 200px;
-    display: inline-flex;
-    padding-bottom: 0;
-}
+   
+  }
 .container12{
     display: flex;
     flex-direction: column;
